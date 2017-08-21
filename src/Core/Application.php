@@ -2,6 +2,9 @@
 
 namespace Core;
 
+/**
+ * Test commit nr.2
+ */
 use Controller\BlogController;
 
 class Application
